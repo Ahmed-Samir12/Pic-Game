@@ -99,7 +99,7 @@ hold.addEventListener('click', () => {
 
     // player who first reach to score 100 wins the game
 
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 50) {
       //finish the game
       playing = false;
 
