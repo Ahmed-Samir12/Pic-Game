@@ -123,4 +123,5 @@ hold.addEventListener('click', () => {
   }
 });
 
+// rest the game
 newGame.addEventListener('click', rest);
